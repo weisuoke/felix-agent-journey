@@ -1,0 +1,10 @@
+.venv/
+.env
+.env.*
+!.env.example
+.data/
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+.DS_Store
